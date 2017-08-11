@@ -10,8 +10,8 @@ from tensorflow.python import debug as tf_debug
 
 
 print('.......... Loading CSV files')
-data = pd.read_csv('dev.csv')
-data_vec = pd.read_csv('dev_vec.csv')
+data = pd.read_csv('Train_reduced.csv')
+data_vec = pd.read_csv('Train_vec_reduced.csv')
 print('............One Hot Encoding')
 one_hot = pd.get_dummies(data['gold_label'],columns=['neutral','entailment','contradiction'])
 print(one_hot.iloc[:10,1:])
