@@ -1,0 +1,51 @@
+,Unnamed: 0,gold_label,sentence1,sentence2
+0,0,neutral,Two women are embracing while holding to go packages.,The sisters are hugging goodbye while holding to go packages after just eating lunch.
+1,1,entailment,Two women are embracing while holding to go packages.,Two woman are holding packages.
+2,2,contradiction,Two women are embracing while holding to go packages.,The men are fighting outside a deli.
+3,3,entailment,"Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.",Two kids in numbered jerseys wash their hands.
+4,4,neutral,"Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.",Two kids at a ballgame wash their hands.
+5,5,contradiction,"Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.",Two kids in jackets walk to school.
+6,6,contradiction,A man selling donuts to a customer during a world exhibition event held in the city of Angeles,A woman drinks her coffee in a small cafe.
+7,7,neutral,A man selling donuts to a customer during a world exhibition event held in the city of Angeles,A man selling donuts to a customer during a world exhibition event while people wait in line behind him.
+8,8,entailment,A man selling donuts to a customer during a world exhibition event held in the city of Angeles,A man selling donuts to a customer.
+9,9,entailment,"Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.",boys play football
+10,10,contradiction,"Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.",dog eats out of bowl
+11,11,neutral,"Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.",boys scoring a touchdown
+12,12,neutral,A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.,A man is repainting a garage
+13,13,entailment,A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.,A man is wearing a blue shirt
+14,14,contradiction,A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.,A man is wearing a black shirt
+15,15,entailment,"Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.",A child is reaching to touch the propeller of a plane.
+16,16,neutral,"Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.",A child is reaching to touch the propeller out of curiosity.
+17,17,contradiction,"Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.",A child is playing with a ball.
+18,18,entailment,A woman is doing a cartwheel while wearing a bikini in the sand next to the beach.,A woman is doing a cartwheel.
+19,19,contradiction,A woman is doing a cartwheel while wearing a bikini in the sand next to the beach.,A woman is fixing her home.
+20,20,contradiction,A woman is doing a cartwheel while wearing a bikini in the sand next to the beach.,A woman is doing a cartwheel and falls on her head.
+21,21,entailment,Two men on bicycles competing in a race.,People are riding bikes.
+22,22,neutral,Two men on bicycles competing in a race.,Men are riding bicycles on the street.
+23,23,contradiction,Two men on bicycles competing in a race.,A few people are catching fish.
+24,24,neutral,A young boy in a field of flowers carrying a ball,boy leaving baseball game
+25,25,entailment,A young boy in a field of flowers carrying a ball,boy in field
+26,26,contradiction,A young boy in a field of flowers carrying a ball,dog in pool
+27,27,contradiction,Families waiting in line at an amusement park for their turn to ride.,The restaurant is very bad.
+28,28,contradiction,Families waiting in line at an amusement park for their turn to ride.,People are waiting in line at a restaurant.
+29,29,contradiction,Families waiting in line at an amusement park for their turn to ride.,People are waiting to see a movie.
+30,30,entailment,A senior is waiting at the window of a restaurant that serves sandwiches.,A person waits to be served his food.
+31,31,contradiction,A senior is waiting at the window of a restaurant that serves sandwiches.,A man is waiting in line for the bus.
+32,32,neutral,A senior is waiting at the window of a restaurant that serves sandwiches.,A man is looking to order a grilled cheese sandwich.
+33,33,entailment,"Man in a black suit, white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him.",A person in a suit
+34,34,contradiction,"Man in a black suit, white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him.",Nobody has a suit
+35,35,neutral,"Man in a black suit, white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him.",A tall person in a suit
+36,36,entailment,Two women having drinks and smoking cigarettes at the bar.,Two women are at a bar.
+37,37,contradiction,Two women having drinks and smoking cigarettes at the bar.,Three women are at a bar.
+38,38,neutral,Two women having drinks and smoking cigarettes at the bar.,Women are celebrating at a bar.
+39,39,contradiction,"At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera.",A single man is next to a camera
+40,40,neutral,"At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera.",A crowd is dancing
+41,41,neutral,"At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera.",A crowd is in front of a camera
+42,42,contradiction,Two doctors perform surgery on patient.,Two surgeons are having lunch.
+43,43,entailment,Two doctors perform surgery on patient.,Doctors are performing surgery.
+44,44,neutral,Two doctors perform surgery on patient.,Two doctors are performing surgery on a man.
+45,45,contradiction,A white dog with long hair jumps to catch a red and green toy.,A white dog with long hair is swimming underwater.
+46,46,entailment,A white dog with long hair jumps to catch a red and green toy.,An animal is jumping to catch an object.
+47,47,neutral,A white dog with long hair jumps to catch a red and green toy.,A white chihuahua mix with long curly hair is jumping to catch a red and green toy bone.
+48,48,neutral,Kids are on a amusement ride.,Kids ride their favorite amusement ride.
+49,49,contradiction,Kids are on a amusement ride.,A car is broke down on the side of the road.
